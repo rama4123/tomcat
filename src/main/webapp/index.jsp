@@ -2,7 +2,7 @@
 <title>LOGIN</title>
 <script>
 function fun(){
-	u=documentgetelementbyid("un").value;
+	u=document.getelementbyid("un").value;
 	p=document.getelementbyid("pw").value;
 	if(u="admin" && p="admin"){
 		alert ()"success")
